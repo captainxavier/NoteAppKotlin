@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">NoteApp</string>
+    <string name="daily_notes">Daily Notes</string>
+    <string name="take_notes_reminders_set_targets_collect_resources_and_secure_privacy">Take Notes,reminders,set targets,collect resources and secure privacy</string>
+    <string name="get_started">Get Started</string>
+    <string name="first_time_user">FirstTime</string>
+    <string name="notes">Notes</string>
+    <string name="edit">Edit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="title">title</string>
+    <string name="title_activity_add_edit_note">AddEditNoteActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="new_folder">New Folder</string>
+    <string name="tv_folder_msg">Oops! there is not folder that you have created</string>
 </resources>
